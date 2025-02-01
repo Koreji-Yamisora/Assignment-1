@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1;
 
-class Program
+class Main
 {
     static void Main()
     {
