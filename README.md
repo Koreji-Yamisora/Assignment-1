@@ -1,7 +1,7 @@
 # Introduction
 The purpose of this assignment is to allow the customer to input booking hotel reservation data using these format
 
-> [!NOTE] Example
+> 
 > **HOTEL RESERVATION SYSTEM**
 > 
 > **BOOKING PREFERENCE** (Use if else condition)
